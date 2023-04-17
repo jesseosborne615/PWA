@@ -8,16 +8,9 @@
   * [Contributions](#contributors)
   * [Tests](#tests)
   * [Contact](#contatct)
-  * [License](#license)
 
   ## Description
   A short video where I explain PWA's
-  
-  ## License
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-  https://opensource.org/licenses/MIT
-
 
   ## Installation
   N/A
